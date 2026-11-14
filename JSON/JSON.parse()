@@ -1,0 +1,15 @@
+
+/*JSON.parse()
+const student = '{"name":"Esther" ,"age":22,"course":"web dev","skills":["Html","Css"]}';
+
+const convertedData = JSON.parse(student);
+console.log(convertedData.name, convertedData.age, convertedData.course, convertedData.skills);
+*/
+/*
+const product = {
+    name: "laptop",
+    price: 1000,
+    brand: "Dell"
+}
+const convertproduct = JSON.stringify(product);
+console.log(convertproduct);
