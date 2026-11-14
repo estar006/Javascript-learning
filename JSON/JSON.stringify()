@@ -1,0 +1,11 @@
+/*JSON.stringify()
+    const student = {
+        name: "Esther",
+        age: 22,
+        course: "web dev",
+        skills: ["Html", "Css"]
+    };
+    const convertedData = JSON.stringify(student);
+    console.log(convertedData);
+    console.log(typeof convertedData);
+*/
