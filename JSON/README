@@ -1,0 +1,35 @@
+ JavaScript API Practice
+
+About this repository
+
+This repository contains my practical JavaScript learning exercises as I develop my web development skills.
+
+ Topics Covered
+
+- JSON and JavaScript objects
+- JSON.parse() and JSON.stringify()
+- Fetch API
+- Async/Await
+- Working with API responses
+- forEach()
+- map()
+- filter()
+
+ Practical Project
+
+Users API Practice
+
+A simple webpage that fetches user information from JSONPlaceholder and displays names and email addresses.
+
+Technologies Used
+
+- HTML
+- JavaScript
+- JSON
+- Fetch API
+
+ Learning Goals
+
+To improve my understanding of JavaScript, API integration, and working with dynamic data.
+
+This repository will continue to grow as I learn and practise new concepts.
